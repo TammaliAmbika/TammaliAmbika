@@ -28,34 +28,14 @@
 ## 🛠️ Technical Skills
 
 ### Languages & Frameworks
-- **Languages:** Java, JavaScript, SQL, HTML, CSS
-- **Front-end:** React.js, Bootstrap, Reactstrap
-- **Back-end:** Node.js, Express.js
-- **Databases:** MongoDB
+- **Languages:**  JavaScript, SQL, HTML, CSS
+- **Front-end:** React.js
 
 ### Tools & Technologies
 - **Web Development:** Responsive Design, RESTful APIs
 - **Version Control:** Git, GitHub
 - **Build Tools:** Visual Studio, Eclipse
 
-## 🚀 Current Project
-
-I am currently working on a comprehensive project utilizing the following technologies:
-- **Front-end:** React.js,  Bootstrap, Reactstrap
-- **Back-end:** Node.js, Express.js
-- **Database:** MongoDB
-
-In this project, I handle both the front-end and back-end development, ensuring seamless integration and functionality.
-
-## 🎓 Certification
-
-- **Full Stack Development** - JSpiders
-
-## 💼 Professional Experience
-
-- **Current Role:** Software Engineer
-- **Company:** Tektree Software Pvt Hyderabad
-- **Duration:** August 2023 - Present
 
 ## 🌐 Social Media
 
