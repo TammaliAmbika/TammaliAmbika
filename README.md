@@ -17,10 +17,10 @@
   <a href="mailto:tammaliambika07@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://www.linkedin.com/in/matli-mahender-reddy-a73a90212">
+  <a href="https://www.linkedin.com/in/tammali-ambika-9858202b7">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://github.com/MatliMahenderReddy">
+  <a href="https://github.com/TammaliAmbika">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </p>
@@ -28,11 +28,11 @@
 ## 🛠️ Technical Skills
 
 ### Languages & Frameworks
-- **Languages:**  JavaScript, SQL, HTML, CSS
+- **Languages:**  JavaScript, HTML, CSS
 - **Front-end:** React.js
 
 ### Tools & Technologies
-- **Web Development:** Responsive Design, RESTful APIs
+- **Web Development:** Responsive Design
 - **Version Control:** Git, GitHub
 - **Build Tools:** Visual Studio, Eclipse
 
@@ -40,10 +40,10 @@
 ## 🌐 Social Media
 
 <p align="left">
-  <a href="https://github.com/MatliMahenderReddy" target="_blank" rel="noreferrer">
+  <a href="https://github.com/TammaliAmbika" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
   </a>
-  <a href="https://www.linkedin.com/in/matli-mahender-reddy-a73a90212" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/tammali-ambika-9858202b7" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
   </a>
 </p>
@@ -51,8 +51,8 @@
 ## 📈 GitHub Stats
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=MatliMahenderReddy&show_icons=true&theme=radical" alt="Matli Mahender Reddy's GitHub stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MatliMahenderReddy&theme=radical" alt="GitHub Streak Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=TammaliAmbika&show_icons=true&theme=radical" alt="Tammali Ambika GitHub stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TammaliAmbika&theme=radical" alt="GitHub Streak Stats">
 </div>
 
 Thanks for visiting my profile! Have a great day! 😄
