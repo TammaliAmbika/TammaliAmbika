@@ -3,10 +3,10 @@
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif" width="300" height="300">
 </p>
 
-## Full Stack Developer
+## Frontend Developer
 -------------------------
 
-🚀 **Experienced Software Engineer and Full Stack Developer** with a certification from NareshIT. With almost a year of experience, I specialize in building high-performance software using React and modern web technologies. I'm skilled at creating scalable web applications and strong RESTful APIs with tools like Redux, Redux-Saga. I focus on making user-friendly solutions that look good and work well. I'm eager to work on innovative projects and stay current in web development.
+🚀 **Experienced Software Engineer and Frontend Developer** with a certification from NareshIT. With almost a year of experience, I specialize in building high-performance software using React and modern web technologies. I'm skilled at creating scalable web applications and strong RESTful APIs with tools like Redux, Redux-Saga. I focus on making user-friendly solutions that look good and work well. I'm eager to work on innovative projects and stay current in web development.
 
 * 🌍 Based in India
 * ✉️ Contact me at [tammaliambika07@gmail.com](mailto:tammaliambika07@gmail.com )
